@@ -1,6 +1,6 @@
 # Hello there!
-## My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax')
-## I'm a uni student and I do some personal projects here as well. Hope you like it!
+My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax')
+I'm a uni student and I do some personal projects here as well. Hope you like it!
 
 # Here is how you contact me!
 <div>
