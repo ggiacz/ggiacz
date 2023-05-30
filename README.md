@@ -12,7 +12,7 @@ My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax'). I'm cu
 ## And here are some cool stats
 <div>
 <a href="https://github.com/ggiacz">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiacz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiacz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### And the very very long list of tools and tecnologies that I use (and the ones I'm currently learning)
