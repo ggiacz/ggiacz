@@ -14,6 +14,3 @@ My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax'). I'm cu
 <a href="https://github.com/ggiacz">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiacz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-### And the very very long list of tools and tecnologies that I know and use (and the ones I'm currently learning)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" height="30"/>
