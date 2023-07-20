@@ -1,6 +1,9 @@
 ## Hello there!
 My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax'). I'm currently an uni student and I do some personal projects here as well. Hope you like it!
 
+## I'm currently
+Learning C# and building a daily driver to-do-list dashboard.
+
 ## Here is how you contact me
 <div>
 <a href="https://www.youtube.com/@ggiacz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
