@@ -12,7 +12,7 @@ Learning C# and building a daily driver and sprint manager
 <a href="https://www.linkedin.com/in/ggiacz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## And here are some cool stats 
+## And here are some cool stats about my repositorys
 <div>
 <a href="https://github.com/ggiacz">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiacz&layout=compact&langs_count=7&theme=dracula"/>
