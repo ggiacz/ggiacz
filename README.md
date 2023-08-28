@@ -2,7 +2,7 @@
 My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax'). I'm currently an uni student and I do some personal projects here as well. Hope you like it!
 
 ## I'm currently
-Learning C# and building a daily driver to-do-list dashboard.
+Learning C# and building a daily driver and sprint manager
 
 ## Here is how you contact me
 <div>
