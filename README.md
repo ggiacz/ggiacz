@@ -1,5 +1,5 @@
 ## Hello there!
-My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'jax'). I'm currently an uni student and I do some personal projects here as well. Hope you like it!
+My name is Gabriel, and the nickname is 'ggiacz' (you say it like 'g - jax'). I'm currently an uni student and I do some personal projects here as well. Hope you like it!
 
 ## I'm currently
 Learning C# and building a daily driver and sprint manager
