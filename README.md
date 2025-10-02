@@ -2,7 +2,7 @@
 My name is Gabriel, and the nickname reads like 'g-jax'. I'm currently an uni student and I do some personal projects here as well. Hope you like it!
 
 ## I'm currently
-working on a vue-flask stack and learning a bit of C# here and there
+working
 
 ## Here is how you contact me
 <div>
