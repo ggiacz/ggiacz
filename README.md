@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Meu nome é Gabriel, e o nickname é 'g-jax'.
+  My name is Gabriel, and the nickname reads 'g-jax'.
 </p>
 
 <p align="center">
