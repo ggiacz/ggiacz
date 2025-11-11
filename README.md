@@ -1,10 +1,19 @@
-## Hello there!
-My name is Gabriel, and the nickname reads like 'g-jax'.
+<p align="center">
+  <strong>Hello there!</strong>
+</p>
 
-## I'm currently
-working
+<p align="center">
+  Meu nome é Gabriel, e o nickname é 'g-jax'.
+</p>
 
-## Here is how you contact me
-<div>
-<a href="https://www.linkedin.com/in/ggiacz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="center">
+  <i>currently working</i>
+</p>
+
+<p align="center">
+  ---
+  <br>
+  <a href="[https://www.linkedin.com/in/ggiacz](https://www.linkedin.com/in/ggiacz)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
+  </a>
+</p>
